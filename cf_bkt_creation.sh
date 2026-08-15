@@ -1,5 +1,7 @@
 #!/bin/bash
 
-gcloud storage buckets create gs://testcc_cf_trigger --project=urbancart-dw --location=us
+gcloud storage buckets create gs://urbancart-dw-landing-2026 \
+  --project=urbancart-dw \
+  --location=us
 
 
