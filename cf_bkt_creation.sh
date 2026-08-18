@@ -5,3 +5,9 @@ gcloud storage buckets create gs://urbancart-dw-landing-2026 \
   --location=us
 
 
+
+
+
+
+
+
